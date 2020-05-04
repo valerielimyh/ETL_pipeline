@@ -13,7 +13,7 @@ pip install sqlalchemy
 
 
 # Deployment
-Step 1. Run the clone_repo.py file to clone this repo to your local directory. The script will ask you to input the url of the github repo you want to download, as well as the path of the local directory where you want to clone to.
+Step 1. Run the clone_repo.py file to clone this repo to your local directory (../Healint_DE). The script will ask you to input the url of the github repo you want to download, as well as the path of the local directory where you want to clone to.
 
 
 Step 2. Run 01-Extraction.py - This script downloads the ​latest​ IP address table ('external_ip_address'), creates a database ('ip_address_table') and load it into 'ip_address_table'.

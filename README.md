@@ -1,6 +1,6 @@
 ETL pipeline 
 ============
-To identify the country of a user based on the IP address, by replicating an external IP database into the data warehouse.
+To identify the country of a user based on the IP address, by replicating an external IP database (http://software77.net/geo-ip/history/) into the data warehouse.
 
 # Prerequisites
 In Python, make sure to have postgresql, psycopy and sqlalchemy installed. if not do execute the steps below
